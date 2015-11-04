@@ -29,6 +29,12 @@ Once that's done, create your first Ionic app:
 $ ionic start cutePuppyPics --v2
 ```
 
+Now navigate to your app
+
+```bash
+$ cd cutePuppyPics
+```
+
 To run our app, just run
 
 ```bash
